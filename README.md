@@ -17,3 +17,5 @@ Uso:
 -Sigue las instrucciones en la consola para realizar conversiones de moneda.
 
 -Cuando termines, escribe "salir" para cerrar la aplicación.
+
+#AluraLatam #oraclenexteducation
